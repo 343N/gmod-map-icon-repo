@@ -1,0 +1,14 @@
+{
+	"title"		:	"Map Icon Repo",
+	"type"		:	"tool",
+	"tags"		:	[ "build" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+        "*.svn*",
+		"*.git*",
+		"README.md",
+        ".gitignore"
+    ]
+}
